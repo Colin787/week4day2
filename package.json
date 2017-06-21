@@ -1,0 +1,19 @@
+{
+  "name": "week4day2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add_person.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Colin787/week4day2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Colin787/week4day2/issues"
+  },
+  "homepage": "https://github.com/Colin787/week4day2#readme"
+}
